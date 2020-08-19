@@ -30,6 +30,8 @@ Here are things that make me happy.
 0. Dreams
 0. YouTube
 0. Music
+0. Angular
+0. Material Design
 
 
 Above list and still *counting*
