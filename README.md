@@ -1,4 +1,4 @@
-# 100k things that make me *Happy* and *Enjoy* life
+# 100k Things that make me happy and enjoy life
 
 There are always happy things to be grateful for in my life, but I
 managed to think up *100k*, so I put them all in my list, both big and
