@@ -1,4 +1,4 @@
-# *100k* Things that make me *Happy* and *enjoy* life
+# 100k things that make me *Happy* and *Enjoy* life
 
 There are always happy things to be grateful for in my life, but I
 managed to think up *100k*, so I put them all in my list, both big and
@@ -30,6 +30,9 @@ Here are things that make me happy.
 0. Dreams
 0. YouTube
 0. Music
+0. React
+0. GraphQL
+0. Python
 0. Angular
 0. Material Design
 
